@@ -6,7 +6,7 @@ void main()
   do
   {
     printf("Halo");
-    scanf("%s", Name);
+    scanf("%c", Name);
     do
     {
       printf("What is your blood group [A, B, AB, or O]? ");
@@ -16,7 +16,7 @@ void main()
                             strcmp(G, "B") !=0  &&
                             strcmp(G, "AB") !=0   &&
                             strcmp(G, "O") !=0 )
-        printf("Blood group %s is incorrect! Please try again.\n", G);
+        printf("ladmvm[m[cacall HELPPP\n", G);
     }  while (strcmp(G, "A") !=0  &&
                             strcmp(G, "B") !=0  &&
                             strcmp(G, "AB") !=0   &&
